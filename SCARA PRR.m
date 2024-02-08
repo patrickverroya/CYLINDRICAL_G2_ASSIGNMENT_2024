@@ -13,4 +13,4 @@ a4 = 10;
 % if revolute joint: theta = 0,offset = 0, after offset put the value of theta
 
 
-h
+hhghg
