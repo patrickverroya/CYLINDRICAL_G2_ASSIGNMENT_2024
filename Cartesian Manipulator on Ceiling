@@ -1,1 +1,9 @@
+disp("Cartesian Manipulator on Ceiling")
 
+syms a1 a2 a3 a3
+
+%% Link Lenghts
+a1 = 5;
+a2 = 10;
+a3 = 5;
+a4 = 10;
