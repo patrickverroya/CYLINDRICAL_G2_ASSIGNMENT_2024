@@ -1,4 +1,4 @@
-disp("SCARA-V3")
+disp("SCARA-PRR")
 
 syms a1 a2 a3 a4
 
