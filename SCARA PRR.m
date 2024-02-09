@@ -12,6 +12,7 @@ a4 = 10;
 % if prismatic joint: theta = theta, d = 0, offset = 1, after offset put the value of d
 % if revolute joint: theta = 0,offset = 0, after offset put the value of theta
 
+H0_1=
 
 
 
