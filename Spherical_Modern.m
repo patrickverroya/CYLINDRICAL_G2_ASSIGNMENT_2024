@@ -18,7 +18,7 @@ H1_2 = Link([0,0,a2,pi/2,0,pi/2]);
 H1_2.qlim = pi/180*[-90 90];
 
 H2_3 = Link([0,0,0,0,1,a3+d1]); 
-H2_3.qlim = [0 d3];
+H2_3.qlim = [0 d1];
 
 
 %% Build the Mechnical Manipulator
