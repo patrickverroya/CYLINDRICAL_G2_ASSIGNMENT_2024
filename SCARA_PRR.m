@@ -13,4 +13,6 @@ a4 = 10;
 % if revolute joint: theta = 0,offset = 0, after offset put the value of theta
 
 
+H0_1 = Link([0,0,a2,0,1,a1]); 
+H0_1.qlim = [0 5];
 
