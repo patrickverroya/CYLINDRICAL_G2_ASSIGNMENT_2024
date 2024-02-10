@@ -7,15 +7,17 @@ a1 = 5;
 a2 = 3;
 a3 = 3;
 a4 = 2;
+
 %% Joint Variables
 d1 = 2;
 d2 = 2;
 d3 = 2;
-%% D-H Parameters [theta, d, r, alpha, offset]
-% if prismatic joint: theta = theta, d = 0, offset = 1, after offset put the value of d
-% if revolute joint: theta = 0,offset = 0, after offset put the value of theta
+
+%% D-H Parameters [theta; d; r; alpha; offset]
+% if prismatic joint: theta = theta, d = 0, offset = 1, after put the value of d
+% if revolute joint: theta = 0, offsett = 0, after put the value of theta
 H0_1 = Link([0,0,0,pi/2,1,-a1]);
-H0_1.qlim = [0 0];
+H_01.qlim = [0 0];
 
 H1_2 = Link([pi/2,0,0,pi/2,1,a2]);
 H1_2.qlim = [0 d1];
