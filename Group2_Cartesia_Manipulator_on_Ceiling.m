@@ -16,6 +16,7 @@ d3 = 2;
 %% D-H Parameters [theta; d; r; alpha; offset]
 % if prismatic joint: theta = theta, d = 0, offset = 1, after put the value of d
 % if revolute joint: theta = 0, offsett = 0, after put the value of theta
+
 H0_1 = Link([0,0,0,pi/2,1,-a1]);
 H_01.qlim = [0 0];
 
@@ -27,6 +28,7 @@ H2_3.qlim = [0 d2];
 
 H3_4 = Link([0,0,0,0,1,a4]);
 H3_4.qlim = [0 d3];
+
 
 
 Cart = SerialLink([H0_1 H1_2 H2_3 H3_4], 'name', 'Cart')
