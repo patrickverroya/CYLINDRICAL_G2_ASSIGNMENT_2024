@@ -30,7 +30,6 @@ H3_4 = Link([0,0,0,0,1,a4]);
 H3_4.qlim = [0 d3];
 
 
-
 Cart = SerialLink([H0_1 H1_2 H2_3 H3_4], 'name', 'Cart')
 Cart.plot([0 0 0 0],'workspace',[-2 8 -10 2 -10 0]) %plot at Origin position
 Cart.teach
