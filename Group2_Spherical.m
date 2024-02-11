@@ -26,3 +26,4 @@ H2_3.qlim = [0 d1];
 Spherical_modern = SerialLink([H0_1 H1_2 H2_3], 'name', 'Spherical_modern')
 Spherical_modern.plot([0 0 0], 'workspace', [-5 5 -5 5 -8 10])
 Spherical_modern.teach
+
