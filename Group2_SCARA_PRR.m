@@ -9,7 +9,6 @@ syms a1 a2 a3 a4
 5
 6
 7
-8
 %% Link Lengths
 a1 = 5;
 a2 = 3;
