@@ -10,6 +10,7 @@ d1 = 2;
 
 %% D-H Parameters: theta, d, r, alpha, offset
 % if prismatic joint: theta = theta, d = 0, offset = 1, after offset put the value of d
+
 % if revolute joint: theta = 0,offset = 0, after offset put the value of theta
 
 H0_1 = Link([0,a1,0,pi/2,0,0]); 
