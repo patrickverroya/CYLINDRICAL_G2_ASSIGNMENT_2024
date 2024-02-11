@@ -13,7 +13,6 @@ d1 = 2;
 d2 = 2;
 d3 = 2;
 
-
 %% D-H Parameters [theta; d; r; alpha; offset]
 % if prismatic joint: theta = theta, d = 0, offset = 1, after put the value of d
 % if revolute joint: theta = 0, offsett = 0, after put the value of theta
