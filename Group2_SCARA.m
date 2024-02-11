@@ -28,4 +28,5 @@ H3_4.qlim = pi/180*[-90 90];
 %% Build the Mechanical Manipulator
 Scara_PRR = SerialLink([H0_1 H1_2 H2_3 H3_4], 'name', 'SCARA_PRR')
 Scara_PRR.plot([0 0 0 0], 'workspace', [-15 15 -15 15 -15 15])
+
 Scara_PRR.teach
