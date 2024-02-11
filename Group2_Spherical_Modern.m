@@ -7,6 +7,7 @@ a1 = 5;
 
 a2 = 3;
 a3 = 2;
+
 d1 = 1;
 
 %% D-H Parameters: theta, d, r, alpha, offset
