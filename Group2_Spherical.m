@@ -1,6 +1,5 @@
 disp("Spherical_Modern")
 
-
 syms a1 a2 a3
 
 %% Link Lengths
