@@ -6,6 +6,7 @@ syms a1 a2 a3
 a1 = 5;
 a2 = 3;
 a3 = 2;
+
 d1 = 2;
 
 %% D-H Parameters: theta, d, r, alpha, offset
