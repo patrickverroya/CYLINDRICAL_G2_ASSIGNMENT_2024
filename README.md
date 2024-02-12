@@ -1,6 +1,6 @@
 # Kinematic Diagram and Parametric Table
 
-#Cylindrical_Group_2_Assignment
+# Cylindrical_Group_2_Assignment
 
 
 In Partial Fulfillment of the requirements for MEXE-409 Robotics 2
