@@ -13,7 +13,7 @@ Figure below shows the Kinematic Diagram with Parametric Table of Spherical Mani
 
 Figure below shows the Kinematic Diagram with Parametric Table of Scara - PRR Variant
 
-2. SCARA - PRR VARIANT
+## 2. SCARA - PRR VARIANT
 ![SCARA PRR VARIANT](https://github.com/patrickverroya/SCARA_G3_ASSIGNMENT_2024/assets/157602175/6c8e0d2b-fa20-4c98-a8b8-776567ddd84e)
 
 Figure below shows the Kinematic Diagram with Parametric Table of Cartesian Manipulator on the Ceiling
