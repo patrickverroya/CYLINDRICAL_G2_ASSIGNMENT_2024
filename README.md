@@ -18,5 +18,5 @@ Figure below shows the Kinematic Diagram with Parametric Table of Scara - PRR Va
 
 Figure below shows the Kinematic Diagram with Parametric Table of Cartesian Manipulator on the Ceiling
 
-3. CARTESIAN MANIPULATOR ON THE CEILING 
+#### 3. CARTESIAN MANIPULATOR ON THE CEILING 
 ![Cartesian on the Ceiling](https://github.com/patrickverroya/SCARA_G3_ASSIGNMENT_2024/assets/157602175/ee422dc6-ed03-446a-8d51-07407a863d12)
