@@ -1,5 +1,7 @@
 # Kinematic Diagram and Parametric Table
 
+Group 2 - Assignment
+
 In Partial Fulfillment of the requirements for MEXE-409 Robotics 2
 Bachelor of Science in Mechatronics Engineering
 
