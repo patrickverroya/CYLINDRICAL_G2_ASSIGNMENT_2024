@@ -8,7 +8,7 @@ Bachelor of Science in Mechatronics Engineering
 
 Figure below shows the Kinematic Diagram with Parametric Table of Spherical Manipulator - Modern Variant
 
-### 1. SPHERICAL MANIPULATOR - MODERN VARIANT
+#### 1. SPHERICAL MANIPULATOR - MODERN VARIANT
 ![Spherical Manipulator](https://github.com/patrickverroya/SCARA_G3_ASSIGNMENT_2024/assets/157602175/2162bac7-fd77-4b15-936e-d4fd8f6dbc4f)
 
 Figure below shows the Kinematic Diagram with Parametric Table of Scara - PRR Variant
