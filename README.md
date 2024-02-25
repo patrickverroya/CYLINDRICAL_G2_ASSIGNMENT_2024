@@ -1,4 +1,4 @@
-# Kinematic Diagram and Parametric Tabl
+# Kinematic Diagram and Parametric Table
 
 ## Cylindrical_Group_2_Assignment
 
